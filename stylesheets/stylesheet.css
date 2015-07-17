@@ -376,3 +376,13 @@ user css
 #team-name {
   color: #FFF;
 }
+
+
+/*************************
+       Pictures Center 
+*************************/
+.carousel-inner {
+    margin-left: auto!important;
+    margin-right: auto!important;
+    width: 1140px!important;
+}
