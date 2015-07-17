@@ -382,15 +382,14 @@ user css
        Pictures Center 
 *************************/
 .carousel-inner {
-    margin-left: auto!important;
-    margin-right: auto!important;
-    width: 1140px!important;
-<<<<<<< HEAD
-<<<<<<< HEAD
+  margin-left: auto !important;
+  margin-right: auto !important;
+  width: 1140px !important;
 }
-=======
+
+.carousel-inner .carousel-caption img {
+  width: 300px;
+  height: 300px;
+  background: center;
+  background-size: cover;
 }
->>>>>>> dev
-=======
-}
->>>>>>> 9e0210d7db7ffeea562ad288dd25534e2736e3d3
